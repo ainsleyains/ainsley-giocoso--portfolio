@@ -31,9 +31,9 @@ export default function Hero() {
                     to='contact'
                     smooth={true}
                     duration={500}
-                    className='uppercase flex justify-center items-center tracking-[2px] '
+                    className='md:uppercase flex justify-center items-center tracking-[2px] '
                 >
-                    <span className='mr-[10px]'>Reach out</span>
+                    <span className=' mr-[10px]'>Reach out</span>
                     <Plus className='animate-bounce w-6 h-6' />
                 </Link>
             </button>
