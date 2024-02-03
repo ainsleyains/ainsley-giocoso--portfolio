@@ -8,7 +8,7 @@ export default function Hero() {
             name='home'
             className=' h-screen w-[calc(100vw-30px)] flex flex-col items-start mx-auto md:ml-[80px] '
         >
-            <h1 className='text-[135px] md:text-[11vw] lg:text-[13vw] font-medium font-[Anton] md:max-w-[70vw] uppercase leading-[7rem] md:leading-[11rem] text-[#111] mt-[160px] md:mt-[120px] relative'>
+            <h1 className='text-[120px] md:text-[11vw] lg:text-[13vw] font-medium font-[Anton] md:max-w-[70vw] uppercase leading-[7rem] md:leading-[11rem] text-[#111] mt-[160px] md:mt-[120px] relative'>
                 Ainsley
             </h1>
             <div className='flex flex-col justify-between absolute top-[19rem] md:top-[19rem] '>

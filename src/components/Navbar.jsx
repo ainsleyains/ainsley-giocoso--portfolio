@@ -104,7 +104,7 @@ export default function Navbar() {
             </div>
             <div>
                 <img
-                    className='absolute top-[8%] right-[5%]'
+                    className='absolute top-[15%] right-[10%] '
                     style={{ width: '150px' }}
                     src={logo}
                     alt='giocoso logo'

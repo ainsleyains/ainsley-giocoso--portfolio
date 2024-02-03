@@ -101,7 +101,7 @@
 
 @media only screen and (max-width: 640px) {
     .myClassName [data-kind='digit'] {
-        font-size: 7rem;
+        font-size: 6rem;
     }
 
     .content {
