@@ -8,10 +8,10 @@ export default function Hero() {
             name='home'
             className=' h-screen w-[calc(100vw-30px)] flex flex-col items-start mx-auto md:ml-[80px] '
         >
-            <h1 className='text-[120px] md:text-[11vw] lg:text-[13vw] font-medium font-[Anton] md:max-w-[70vw] uppercase leading-[7rem] md:leading-[11rem] text-[#111] mt-[160px] md:mt-[120px] relative'>
+            <h1 className='text-[20vw] md:text-[16vw] lg:text-[11vw] font-medium font-[Anton] md:max-w-[70vw] uppercase leading-[7rem] md:leading-[11rem] text-[#111] mt-[220px] md:mt-[110px] lg:mt-[100px]  relative'>
                 Ainsley
             </h1>
-            <div className='flex flex-col justify-between absolute top-[19rem] md:top-[19rem] '>
+            <div className='flex flex-col justify-between absolute top-[21rem] md:top-[17rem]  '>
                 <FlapDisplay
                     className='myClassName '
                     chars={Presets.ALPHANUM + ''}
@@ -26,7 +26,7 @@ export default function Hero() {
                 />
             </div>
 
-            <button className='bg-[#111] absolute right-[6vw] bottom-[2vh]  md:right-[10vw] md:bottom-[10vh] border border-solid border-[#111] text-white p-[12px] md:p-[20px]  hover:bg-white hover:text-[#111] '>
+            <button className='bg-[#111] absolute right-[10vw] bottom-[3vh]  md:right-[11vw] md:bottom-[5vh] lg:right-[5vw] border border-solid border-[#111] text-white p-[12px] md:p-[20px]  hover:bg-white hover:text-[#111] '>
                 <Link
                     to='contact'
                     smooth={true}
