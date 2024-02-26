@@ -1,6 +1,6 @@
 # Ainsley's Portfolio
 
-Live Demo: https://gioportfolio.netlify.app/
+Live Demo: https://giocoso.netlify.app/
 
 > Welcome to my digital canvas where creativity meets technology. This website showcases not only my creativity but also my skills, projects, and passion for technology and design
 
