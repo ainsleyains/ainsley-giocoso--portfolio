@@ -1,5 +1,5 @@
 import aria from '../assets/aria.png';
-import baker from '../assets/bakers.png';
+import bakers from '../assets/bakers.png';
 
 export default function Works() {
     return (
@@ -54,46 +54,44 @@ export default function Works() {
                     </div>
                 </div>
 
-                {/* <div className='grid md:grid-cols-2 gap-4 my-10 md:my-[120px]  ml-8 justify-center '>
+                <div className='grid md:grid-cols-2 gap-4 my-10 md:my-[120px]  ml-8 justify-center '>
                     <div className='content '>
                         <p className='w-[300px] md:w-[400px] text-xl'>
-                            Create a responsive design and craft content for an interior design
-                            company with the aim of conveying the organization's culture, ensuring
-                            it is easily discernible through the website.
+                            Create a visually delightful and responsive platform to convey the sweet
+                            culture and craftsmanship that define the heart of the pastry shop.
                             <br />
-                            Tech:&nbsp;React Router&nbsp;& Tailwind
                         </p>
 
                         <div
                             className='cover '
-                            style={{ backgroundImage: `url(${aria})` }}
+                            style={{ backgroundImage: `url(${bakers})` }}
                         ></div>
                     </div>
                     <div className='flex flex-col justify-center items-center mt-8'>
                         <div className='text-left mb-16'>
-                            <p className='inline border-b-2 border-[#111]'>01</p>
-                            <p className='uppercase text-4xl md:text-6xl font-bold my-8 hover:text-[#d6ac67]'>
-                                aria & co.
+                            <p className='inline border-b-2 border-[#111]'>02</p>
+                            <p className='uppercase text-4xl md:text-6xl font-bold my-8 hover:text-[#6fcbd5]'>
+                                baker's
                             </p>
-                            <p className=' md:text-[1.1rem] '>
-                                Web developement & Content creation
-                            </p>
+                            <p className=' md:text-[1.1rem] '>Logo design & Web developement</p>
+                            <br />
+                            <p>Tech:&nbsp;React </p>
                         </div>
 
                         <div className=' my-8 md:mt-10'>
-                            <a href='/'>
-                                <button className='text-center rounded-full px-6 mr-8 py-3m-2 border border-[#111] hover:scale-125 hover:bg-[#d6ac67] hover:text-white hover:border-[#d6ac67] '>
+                            <a href='https://bakerspastry.netlify.app/'>
+                                <button className='text-center rounded-full px-6 mr-8 py-3m-2 border border-[#111] hover:scale-125 hover:bg-[#6fcbd5] hover:text-white hover:border-[#6fcbd5] '>
                                     Visit Site
                                 </button>
                             </a>
-                            <a href='/'>
-                                <button className='text-center rounded-full px-6 py-3m-2 border border-[#111] hover:scale-125 hover:bg-[#d6ac67] hover:text-white hover:border-[#d6ac67]'>
+                            <a href='https://github.com/ainsleyains/bakers'>
+                                <button className='text-center rounded-full px-6 py-3m-2 border border-[#111] hover:scale-125 hover:bg-[#6fcbd5] hover:text-white hover:border-[#6fcbd5]'>
                                     View Code
                                 </button>
                             </a>
                         </div>
                     </div>
-                </div> */}
+                </div>
 
                 {/* <div className='grid md:grid-cols-3 gap-8 my-12 md:mt-8 md:my-24 '>
                     <div

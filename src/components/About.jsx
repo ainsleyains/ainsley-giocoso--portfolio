@@ -19,7 +19,7 @@ export default function About() {
                             <p>Ainsley</p>
                         </div>
                         <div className='text-2xl pt-8'>
-                            <p>Creative Developer</p>
+                            <p>Developer + Nerd</p>
                         </div>
                     </div>
 
